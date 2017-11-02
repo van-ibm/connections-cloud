@@ -1,0 +1,7 @@
+node_modules/
+.settings
+.project
+.env
+*.log
+*.csv
+package-lock.json

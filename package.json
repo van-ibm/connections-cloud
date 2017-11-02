@@ -1,0 +1,29 @@
+{
+  "name": "connections-cloud",
+  "version": "1.0.6",
+  "description": "An unofficial IBM Connections Cloud JS client. ",
+  "main": "ConnectionsCloud.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ibm.com/van-staub/connections-cloud.git"
+  },
+  "keywords": [
+    "connectionscloud",
+    "connections"
+  ],
+  "author": "van_staub@us.ibm.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cnx2js": "^1.0.2",
+    "async": "^2.1.4",
+    "request": "^2.79.0",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "dotenv": "^2.0.0",
+    "jasmine": "^2.5.2"
+  }
+}
